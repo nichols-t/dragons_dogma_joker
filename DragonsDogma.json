@@ -2,7 +2,7 @@
   "id": "DRAGONSDOGMA",
   "name": "Dragon's Dogma Joker Mod",
   "author": ["tyrannosaur"],
-  "description": "Adds the Dragon's Dogma Joker, which destroys any played hearts, but returns them to your deck when sold.",
+  "description": "Adds the Dragon's Dogma Joker, which destroys any played hearts, but returns them to you when removed.",
   "prefix": "dragonsdogma",
   "main_file": "DragonsDogma.lua",
   "badge_colour": "c7638f",

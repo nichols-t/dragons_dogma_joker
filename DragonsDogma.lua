@@ -11,7 +11,7 @@ SMODS.Joker {
     name = "Dragon's Dogma",
     text = {
       "Destroys played {C:mult}hearts{}.", 
-      "When destroyed, returns these",
+      "When removed, returns these",
       "{C:mult}hearts{} to your hand."
     }
   },
@@ -70,4 +70,4 @@ end,
   end
 }
 
--- 1EIM3G3H (jokur pak)
+-- 1EIM3G3H (shop 1 first joker pack)
