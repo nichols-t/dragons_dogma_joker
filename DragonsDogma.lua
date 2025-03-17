@@ -10,10 +10,10 @@ SMODS.Joker {
   loc_txt = {
     name = "Dragon's Dogma",
     text = {
-      "Destroys played {C:red}hearts{}.", 
-      "When removed, returns these",
-      "{C:red}hearts{} to your hand",
-      "with {C:red}red seals{}.",
+      "Destroys scored {C:red}hearts{}.", 
+      "When removed, returns",
+      "these {C:red}hearts{} to your",
+      "hand with {C:red}red seals{}.",
       "{C:inactive}(Currently has {C:attention}#1#{C:inactive} hearts)"
     }
   },
